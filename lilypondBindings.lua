@@ -1,5 +1,3 @@
--- using shell script to load Green because Micros RUN command have troubles with
--- SDL_NOMOUSE=1 parameter
 pdf_command = "./pdfprev.sh"
 -- mid_command = "fluidsynth -i -o audio.driver=alsa /usr/share/sounds/sf2/FluidR3_GM.sf2"
 mid_command = "timidity"
